@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @S-Varshaa-Sai-Sripriya
-- 👀 I’m interested in building Machine Learning, Data Science, AI, LLM, NLP, and related domains!
+- 👀 I’m interested in building projects in Machine Learning, Data Science, AI, LLM, NLP, and related domains!
 - 💞️ I’m looking to collaborate on projects in these domains
 - 📫 How to reach me https://www.linkedin.com/in/varshaasaisheshadhri/
 - 😄 Pronouns: She/her
