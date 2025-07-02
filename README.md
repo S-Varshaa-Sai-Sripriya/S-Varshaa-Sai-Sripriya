@@ -8,8 +8,13 @@
 
 </div> 
 
-Currently pursuing my M.S. in Data Science at Stony Brook University and collaborating on enterprise-scale automation in a $57M Oracle Cloud ERP transformation.
-  
+Welcome to my GitHub portfolio! Here, you'll find my work focused on Machine Learning, Data Science, and AI solutions. 
+
+## Project Links
+
+    1. [Agent Based Market Simulation: AHMAPPO + LLM](https://github.com/S-Varshaa-Sai-Sripriya/Agent-Based-Market-Simulation-AHMAPPO-with-LLM-Integration) 
+
+
 ## 📫 Let's connect: 
 
 - [Linkedin](https://www.linkedin.com/in/varshaasaisheshadhri/)
