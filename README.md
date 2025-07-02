@@ -1,9 +1,12 @@
 ![c1](https://github.com/user-attachments/assets/796077c5-3157-41dd-8944-576da343d44c)
 
+<div align="center">
 ## 👋 Hello, I’m S Varshaa Sai Sripriya
 
 🎓 Gold Medalist | 🤖 Machine Learning, Data Science, AI & related domains 
 
+</div> 
+  
 - 👀 I’m interested in building projects in Machine Learning, Data Science, AI, LLM, NLP, and related domains!
 - 💞️ I’m looking to collaborate on projects in these domains
 - 📫 How to reach me https://www.linkedin.com/in/varshaasaisheshadhri/
