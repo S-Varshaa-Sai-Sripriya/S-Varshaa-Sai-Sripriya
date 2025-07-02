@@ -13,7 +13,7 @@ Currently pursuing my M.S. in Data Science at Stony Brook University and collabo
 ## 📫 Let's connect: 
 
 - [Linkedin](https://www.linkedin.com/in/varshaasaisheshadhri/)
-- [Mail via form](https://formsubmit.co/varshaasaisripriyas@gmail.com)(https://forms.gle/4he63uTbjhTcTU5t5)
+- [Mail via form](https://forms.gle/4he63uTbjhTcTU5t5)
 
 
 ![cute girl coding with background gaming and a monitor beside with omni theme coder open and she has black hair no bangs strictly](https://github.com/user-attachments/assets/71a646ee-db7d-47a4-8a87-fd668e1298a3)
