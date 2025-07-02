@@ -31,7 +31,7 @@ Other [UG Projects Documentation](https://github.com/S-Varshaa-Sai-Sripriya/BTec
 - [Linkedin](https://www.linkedin.com/in/varshaasaisheshadhri/)
 - [Mail via form](https://forms.gle/4he63uTbjhTcTU5t5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Varshaa-Sai-Sripriya&layout=compact&theme=react)  ![Varshaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-Varshaa-Sai-Sripriya&show_icons=true&theme=react&hide=contribs&count_private=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Varshaa-Sai-Sripriya&layout=compact&theme=react)  ![Varshaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-Varshaa-Sai-Sripriya&show_icons=true&theme=react&hide=contribs&count_private=true) ![Preferred language](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
 ![cute girl coding with background gaming and a monitor beside with omni theme coder open and she has black hair no bangs strictly](https://github.com/user-attachments/assets/71a646ee-db7d-47a4-8a87-fd668e1298a3)
