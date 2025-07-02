@@ -12,8 +12,19 @@ Welcome to my GitHub portfolio! Here, you'll find my work focused on Machine Lea
 
 ## Project Links
 
-    1. [Agent Based Market Simulation: AHMAPPO + LLM](https://github.com/S-Varshaa-Sai-Sripriya/Agent-Based-Market-Simulation-AHMAPPO-with-LLM-Integration) 
+  1. [Agent Based Market Simulation: AHMAPPO + LLM](https://github.com/S-Varshaa-Sai-Sripriya/Agent-Based-Market-Simulation-AHMAPPO-with-LLM-Integration)
+  2. [End to End Machine Learning Project with Deployment: Student Performance Predictor (Use Case)](https://github.com/S-Varshaa-Sai-Sripriya/End-to-End-Machine-Learning-Project-with-Deployment-Student-Performance-Predictor)
+  3. [FinTrack ML: Personal Financial Tracker](https://github.com/S-Varshaa-Sai-Sripriya/FinTrack-ML)
+  4. [Research Guide: MultiPDF RAG Agent](https://github.com/S-Varshaa-Sai-Sripriya/Research-Guide-MultiPDF-RAG-Agent)
+  5. [PersonaGameAI: The Adaptive PlayStyle Engine](https://github.com/S-Varshaa-Sai-Sripriya/PersonaGameAI)
 
+Other [UG Projects Documentation](https://github.com/S-Varshaa-Sai-Sripriya/BTech-Projects-Portfolio-Documentation)
+
+## Publications:
+
+  1. [Water Potability Prediction](https://www.researchgate.net/publication/373908648_Machine_Learning_Methods_for_Balanced_and_Imbalanced_Datasets_to_Predict_Consumable_Water)
+  2. [Multi-Class Pneumonia Detection](https://ieeexplore.ieee.org/document/9936750)
+  3. [Loan Eligibility Prediction](https://ieeexplore.ieee.org/document/9951727)
 
 ## 📫 Let's connect: 
 
