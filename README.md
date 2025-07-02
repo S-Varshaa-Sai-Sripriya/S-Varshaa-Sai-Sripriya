@@ -1,6 +1,6 @@
 ![c1](https://github.com/user-attachments/assets/796077c5-3157-41dd-8944-576da343d44c)
 
-- 👋 Hi, I’m S Varshaa Sai Sripriya
+## 👋 Hello, I’m S Varshaa Sai Sripriya
 
 🎓 Gold Medalist | 🤖 Machine Learning, Data Science, AI & related domains 
 
