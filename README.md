@@ -3,15 +3,17 @@
 <div align="center">
 ## 👋 Hello, I’m S Varshaa Sai Sripriya
 
-🎓 Gold Medalist | 🤖 Machine Learning, Data Science, AI & related domains 
+## 🎓 Gold Medalist | 🤖 Machine Learning, Data Science, AI & related domains 
 
 </div> 
+
+Currently pursuing my M.S. in Data Science at Stony Brook University and collaborating on enterprise-scale automation in a $57M Oracle Cloud ERP transformation.
   
-- 👀 I’m interested in building projects in Machine Learning, Data Science, AI, LLM, NLP, and related domains!
-- 💞️ I’m looking to collaborate on projects in these domains
-- 📫 How to reach me https://www.linkedin.com/in/varshaasaisheshadhri/
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I am a gold medalist :)
+## 📫 How to reach me: 
+
+- [Linkedin](https://www.linkedin.com/in/varshaasaisheshadhri/)
+- [Click here to send me a message via mail](https://formsubmit.co/varshaasaisripriyas@gmail.com)
+
 
 ![cute girl coding with background gaming and a monitor beside with omni theme coder open and she has black hair no bangs strictly](https://github.com/user-attachments/assets/71a646ee-db7d-47a4-8a87-fd668e1298a3)
 
