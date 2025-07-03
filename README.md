@@ -12,11 +12,13 @@ Welcome to my GitHub portfolio! Here, you'll find my work focused on Machine Lea
 
 ## Project Links
 
-  1. [Agent Based Market Simulation: AHMAPPO + LLM](https://github.com/S-Varshaa-Sai-Sripriya/Agent-Based-Market-Simulation-AHMAPPO-with-LLM-Integration)
-  2. [End to End Machine Learning Project with Deployment: Student Performance Predictor (Use Case)](https://github.com/S-Varshaa-Sai-Sripriya/End-to-End-Machine-Learning-Project-with-Deployment-Student-Performance-Predictor)
-  3. [FinTrack ML: Personal Financial Tracker](https://github.com/S-Varshaa-Sai-Sripriya/FinTrack-ML)
-  4. [Research Guide: MultiPDF RAG Agent](https://github.com/S-Varshaa-Sai-Sripriya/Research-Guide-MultiPDF-RAG-Agent)
-  5. [PersonaGameAI: The Adaptive PlayStyle Engine](https://github.com/S-Varshaa-Sai-Sripriya/PersonaGameAI)
+  1. [Agent Based Market Simulation: AHMAPPO + LLM](https://github.com/S-Varshaa-Sai-Sripriya/Agent-Based-Market-Simulation-AHMAPPO-with-LLM-Integration)      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  2. [End to End Machine Learning Project with Deployment: Student Performance Predictor (Use Case)](https://github.com/S-Varshaa-Sai-Sripriya/End-to-End-Machine-Learning-Project-with-Deployment-Student-Performance-Predictor)      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  3. [FinTrack ML: Personal Financial Tracker](https://github.com/S-Varshaa-Sai-Sripriya/FinTrack-ML)      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  4. [Research Guide: MultiPDF RAG Agent](https://github.com/S-Varshaa-Sai-Sripriya/Research-Guide-MultiPDF-RAG-Agent)      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  5. [PersonaGameAI: The Adaptive PlayStyle Engine](https://github.com/S-Varshaa-Sai-Sripriya/PersonaGameAI)      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  6. [Income Prediction Using Statistical Learning](https://github.com/S-Varshaa-Sai-Sripriya/Income-Prediction-Using-Statistical-Learning)      ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+  7. [NYC Crime Classification Using Machine Learning](https://github.com/S-Varshaa-Sai-Sripriya/NYC-Crime-Classification-Using-Machine-Learning)      ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 Other [UG Projects Documentation](https://github.com/S-Varshaa-Sai-Sripriya/BTech-Projects-Portfolio-Documentation)
 
