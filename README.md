@@ -13,14 +13,14 @@ Welcome to my GitHub portfolio! Here, you'll find my work focused on Machine Lea
 ## Project Links
 
   1. [Agent Based Market Simulation: AHMAPPO + LLM](https://github.com/S-Varshaa-Sai-Sripriya/Agent-Based-Market-Simulation-AHMAPPO-with-LLM-Integration)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
-  2. [End to End Machine Learning Project with Deployment: Student Performance Predictor (Use Case)](https://github.com/S-Varshaa-Sai-Sripriya/End-to-End-Machine-Learning-Project-with-Deployment-Student-Performance-Predictor)      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  3. [FinTrack ML: Personal Financial Tracker](https://github.com/S-Varshaa-Sai-Sripriya/FinTrack-ML)      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  4. [Research Guide: MultiPDF RAG Agent](https://github.com/S-Varshaa-Sai-Sripriya/Research-Guide-MultiPDF-RAG-Agent)      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  5. [PersonaGameAI: The Adaptive PlayStyle Engine](https://github.com/S-Varshaa-Sai-Sripriya/PersonaGameAI)      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  6. [Income Prediction Using Statistical Learning](https://github.com/S-Varshaa-Sai-Sripriya/Income-Prediction-Using-Statistical-Learning)      ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-  7. [NYC Crime Classification Using Machine Learning](https://github.com/S-Varshaa-Sai-Sripriya/NYC-Crime-Classification-Using-Machine-Learning)      ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-  8. [MovieVerse: Movie Database System Relational Schema & SQL Engine](https://github.com/S-Varshaa-Sai-Sripriya/Movie-Database-System-Relational-Schema-SQL-Engine)      ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  9. [InboxShield ML: Email Spam Classifier](https://github.com/S-Varshaa-Sai-Sripriya/InboxShield-ML)      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  2. [End to End Machine Learning Project with Deployment: Student Performance Predictor (Use Case)](https://github.com/S-Varshaa-Sai-Sripriya/End-to-End-Machine-Learning-Project-with-Deployment-Student-Performance-Predictor)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+  3. [FinTrack ML: Personal Financial Tracker](https://github.com/S-Varshaa-Sai-Sripriya/FinTrack-ML)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+  4. [Research Guide: MultiPDF RAG Agent](https://github.com/S-Varshaa-Sai-Sripriya/Research-Guide-MultiPDF-RAG-Agent)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+  5. [PersonaGameAI: The Adaptive PlayStyle Engine](https://github.com/S-Varshaa-Sai-Sripriya/PersonaGameAI)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+  6. [Income Prediction Using Statistical Learning](https://github.com/S-Varshaa-Sai-Sripriya/Income-Prediction-Using-Statistical-Learning)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="20" />
+  7. [NYC Crime Classification Using Machine Learning](https://github.com/S-Varshaa-Sai-Sripriya/NYC-Crime-Classification-Using-Machine-Learning)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="20" />
+  8. [MovieVerse: Movie Database System Relational Schema & SQL Engine](https://github.com/S-Varshaa-Sai-Sripriya/Movie-Database-System-Relational-Schema-SQL-Engine)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" />
+  9. [InboxShield ML: Email Spam Classifier](https://github.com/S-Varshaa-Sai-Sripriya/InboxShield-ML)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
 
 Other [UG Projects Documentation](https://github.com/S-Varshaa-Sai-Sripriya/BTech-Projects-Portfolio-Documentation)
 
