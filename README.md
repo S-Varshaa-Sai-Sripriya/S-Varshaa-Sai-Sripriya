@@ -20,6 +20,7 @@ Welcome to my GitHub portfolio! Here, you'll find my work focused on Machine Lea
   6. [Income Prediction Using Statistical Learning](https://github.com/S-Varshaa-Sai-Sripriya/Income-Prediction-Using-Statistical-Learning)      ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
   7. [NYC Crime Classification Using Machine Learning](https://github.com/S-Varshaa-Sai-Sripriya/NYC-Crime-Classification-Using-Machine-Learning)      ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
   8. [MovieVerse: Movie Database System Relational Schema & SQL Engine](https://github.com/S-Varshaa-Sai-Sripriya/Movie-Database-System-Relational-Schema-SQL-Engine)      ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  9. [InboxShield ML: Email Spam Classifier](https://github.com/S-Varshaa-Sai-Sripriya/InboxShield-ML)      [Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 Other [UG Projects Documentation](https://github.com/S-Varshaa-Sai-Sripriya/BTech-Projects-Portfolio-Documentation)
 
