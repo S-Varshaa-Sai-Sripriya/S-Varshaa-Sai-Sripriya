@@ -21,6 +21,8 @@ Welcome to my GitHub portfolio! Here, you'll find my work focused on Machine Lea
   7. [NYC Crime Classification Using Machine Learning](https://github.com/S-Varshaa-Sai-Sripriya/NYC-Crime-Classification-Using-Machine-Learning)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="20" />
   8. [MovieVerse: Movie Database System Relational Schema & SQL Engine](https://github.com/S-Varshaa-Sai-Sripriya/Movie-Database-System-Relational-Schema-SQL-Engine)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" />
   9. [InboxShield ML: Email Spam Classifier](https://github.com/S-Varshaa-Sai-Sripriya/InboxShield-ML)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+  10. [End to End MLOps Project with MLflow, Docker, and CI/CD](https://github.com/S-Varshaa-Sai-Sripriya/End-to-End-MLOps-Project-with-MLflow-Docker-and-CI-CD)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+  11. [FraudShield-ML: Credit Fraud Detection](https://github.com/S-Varshaa-Sai-Sripriya/FraudShield-ML-Credit-Fraud-Detection)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
 
 Other [UG Projects Documentation](https://github.com/S-Varshaa-Sai-Sripriya/BTech-Projects-Portfolio-Documentation)
 
