@@ -12,7 +12,7 @@ Welcome to my GitHub portfolio! Here, you'll find my work focused on Machine Lea
 
 ## Project Links
 
-  1. [Agent Based Market Simulation: AHMAPPO + LLM](https://github.com/S-Varshaa-Sai-Sripriya/Agent-Based-Market-Simulation-AHMAPPO-with-LLM-Integration)      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  1. [Agent Based Market Simulation: AHMAPPO + LLM](https://github.com/S-Varshaa-Sai-Sripriya/Agent-Based-Market-Simulation-AHMAPPO-with-LLM-Integration)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   2. [End to End Machine Learning Project with Deployment: Student Performance Predictor (Use Case)](https://github.com/S-Varshaa-Sai-Sripriya/End-to-End-Machine-Learning-Project-with-Deployment-Student-Performance-Predictor)      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   3. [FinTrack ML: Personal Financial Tracker](https://github.com/S-Varshaa-Sai-Sripriya/FinTrack-ML)      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   4. [Research Guide: MultiPDF RAG Agent](https://github.com/S-Varshaa-Sai-Sripriya/Research-Guide-MultiPDF-RAG-Agent)      ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
