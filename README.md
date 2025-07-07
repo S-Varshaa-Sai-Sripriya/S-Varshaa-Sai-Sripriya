@@ -24,7 +24,7 @@ Welcome to my GitHub portfolio! Here, you'll find my work focused on Machine Lea
   10. [End to End MLOps Project with MLflow, Docker, and CI/CD](https://github.com/S-Varshaa-Sai-Sripriya/End-to-End-MLOps-Project-with-MLflow-Docker-and-CI-CD)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
   11. [FraudShield-ML: Credit Fraud Detection](https://github.com/S-Varshaa-Sai-Sripriya/FraudShield-ML-Credit-Fraud-Detection)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
   12. [RAGAI_ChatBot1: Local RAG-Based AI Agent with Ollama, LangChain, and Chroma](https://github.com/S-Varshaa-Sai-Sripriya/RAGAI_ChatBot1)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
-  13. [ForecastOps-AI-Powered-Cloud-Capacity-Planner-and-Dashboard](https://github.com/S-Varshaa-Sai-Sripriya/ForecastOps-AI-Powered-Cloud-Capacity-Planner-and-Dashboard)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+  13. [ForecastOps: AI Powered Cloud Capacity Planner and Dashboard](https://github.com/S-Varshaa-Sai-Sripriya/ForecastOps-AI-Powered-Cloud-Capacity-Planner-and-Dashboard)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
 
 
 Other [UG Projects Documentation](https://github.com/S-Varshaa-Sai-Sripriya/BTech-Projects-Portfolio-Documentation)
