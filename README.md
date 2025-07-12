@@ -12,7 +12,7 @@ Welcome to my GitHub portfolio! Here, you'll find my work focused on Machine Lea
 
 ## Related Coursework
 
-  I. UG
+  I. Bachelors
 
     1. Machine Learning
     2. Deep Learning
@@ -20,7 +20,7 @@ Welcome to my GitHub portfolio! Here, you'll find my work focused on Machine Lea
     4. Bio Inspired Algorithms
     5. DSA - Basic
 
- II. PG
+ II. Masters
 
     1. Reinforcement Learning
     2. DBMS
