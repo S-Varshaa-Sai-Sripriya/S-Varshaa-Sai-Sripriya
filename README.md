@@ -10,6 +10,24 @@
 
 Welcome to my GitHub portfolio! Here, you'll find my work focused on Machine Learning, Data Science, and AI solutions. 
 
+## Related Coursework
+
+  I. UG
+
+    1. Machine Learning
+    2. Deep Learning
+    3. Pattern Recognition
+    4. Bio Inspired Algorithms
+    5. DSA - Basic
+
+ II. PG
+
+    1. Reinforcement Learning
+    2. DBMS
+    3. Big Data Analysis
+    4. Data Analysis (Statistics & Machine Learning)
+    5. DSA - Advanced
+
 ## Project Links
 
   1. [Agent Based Market Simulation: AHMAPPO + LLM](https://github.com/S-Varshaa-Sai-Sripriya/Agent-Based-Market-Simulation-AHMAPPO-with-LLM-Integration)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
