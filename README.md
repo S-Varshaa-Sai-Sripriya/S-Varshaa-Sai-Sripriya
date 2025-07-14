@@ -30,20 +30,24 @@ Welcome to my GitHub portfolio! Here, you'll find my work focused on Machine Lea
 
 ## Project Links
 
+# Self Projects
+
   1. [Agent Based Market Simulation: AHMAPPO + LLM](https://github.com/S-Varshaa-Sai-Sripriya/Agent-Based-Market-Simulation-AHMAPPO-with-LLM-Integration)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
-  2. [End to End Machine Learning Project with Deployment: Student Performance Predictor (Use Case)](https://github.com/S-Varshaa-Sai-Sripriya/End-to-End-Machine-Learning-Project-with-Deployment-Student-Performance-Predictor)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+  2. [PersonaGameAI: The Adaptive PlayStyle Engine](https://github.com/S-Varshaa-Sai-Sripriya/PersonaGameAI)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+  3. [ForecastOps: AI Powered Cloud Capacity Planner and Dashboard](https://github.com/S-Varshaa-Sai-Sripriya/ForecastOps-AI-Powered-Cloud-Capacity-Planner-and-Dashboard)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" /> 
+  4. [InboxShield ML: Email Spam Classifier](https://github.com/S-Varshaa-Sai-Sripriya/InboxShield-ML)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+  5. [FraudShield-ML: Credit Fraud Detection](https://github.com/S-Varshaa-Sai-Sripriya/FraudShield-ML-Credit-Fraud-Detection)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+  6. [MovieVerse: Movie Database System Relational Schema & SQL Engine](https://github.com/S-Varshaa-Sai-Sripriya/Movie-Database-System-Relational-Schema-SQL-Engine)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" />
+  7. [Income Prediction Using Statistical Learning](https://github.com/S-Varshaa-Sai-Sripriya/Income-Prediction-Using-Statistical-Learning)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="20" />
+
+# Learning & Development 
+
+  1. [End to End Machine Learning Project with Deployment: Student Performance Predictor (Use Case)](https://github.com/S-Varshaa-Sai-Sripriya/End-to-End-Machine-Learning-Project-with-Deployment-Student-Performance-Predictor)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+  2. [End to End MLOps Project with MLflow, Docker, and CI/CD](https://github.com/S-Varshaa-Sai-Sripriya/End-to-End-MLOps-Project-with-MLflow-Docker-and-CI-CD)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
   3. [FinTrack ML: Personal Financial Tracker](https://github.com/S-Varshaa-Sai-Sripriya/FinTrack-ML)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
   4. [Research Guide: MultiPDF RAG Agent](https://github.com/S-Varshaa-Sai-Sripriya/Research-Guide-MultiPDF-RAG-Agent)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
-  5. [PersonaGameAI: The Adaptive PlayStyle Engine](https://github.com/S-Varshaa-Sai-Sripriya/PersonaGameAI)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
-  6. [Income Prediction Using Statistical Learning](https://github.com/S-Varshaa-Sai-Sripriya/Income-Prediction-Using-Statistical-Learning)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="20" />
-  7. [NYC Crime Classification Using Machine Learning](https://github.com/S-Varshaa-Sai-Sripriya/NYC-Crime-Classification-Using-Machine-Learning)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="20" />
-  8. [MovieVerse: Movie Database System Relational Schema & SQL Engine](https://github.com/S-Varshaa-Sai-Sripriya/Movie-Database-System-Relational-Schema-SQL-Engine)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" />
-  9. [InboxShield ML: Email Spam Classifier](https://github.com/S-Varshaa-Sai-Sripriya/InboxShield-ML)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
-  10. [End to End MLOps Project with MLflow, Docker, and CI/CD](https://github.com/S-Varshaa-Sai-Sripriya/End-to-End-MLOps-Project-with-MLflow-Docker-and-CI-CD)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
-  11. [FraudShield-ML: Credit Fraud Detection](https://github.com/S-Varshaa-Sai-Sripriya/FraudShield-ML-Credit-Fraud-Detection)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
-  12. [RAGAI_ChatBot1: Local RAG-Based AI Agent with Ollama, LangChain, and Chroma](https://github.com/S-Varshaa-Sai-Sripriya/RAGAI_ChatBot1)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
-  13. [ForecastOps: AI Powered Cloud Capacity Planner and Dashboard](https://github.com/S-Varshaa-Sai-Sripriya/ForecastOps-AI-Powered-Cloud-Capacity-Planner-and-Dashboard)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
-
+  5. [RAGAI_ChatBot1: Local RAG-Based AI Agent with Ollama, LangChain, and Chroma](https://github.com/S-Varshaa-Sai-Sripriya/RAGAI_ChatBot1)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+  6. [NYC Crime Classification Using Machine Learning](https://github.com/S-Varshaa-Sai-Sripriya/NYC-Crime-Classification-Using-Machine-Learning)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="20" />
 
 Other [UG Projects Documentation](https://github.com/S-Varshaa-Sai-Sripriya/BTech-Projects-Portfolio-Documentation)
 
