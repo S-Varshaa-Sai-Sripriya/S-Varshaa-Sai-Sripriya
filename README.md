@@ -2,7 +2,7 @@
 
 <div align="center">
   
-## 👋 Hello, I’m S Varshaa Sai Sripriya
+# 👋 Hello, I’m S Varshaa Sai Sripriya
 
 ## 🎓 Gold Medalist | 🤖 Machine Learning, Data Science, AI & related domains 
 
@@ -10,7 +10,7 @@
 
 Welcome to my GitHub portfolio! Here, you'll find my work focused on Machine Learning, Data Science, and AI solutions. 
 
-## Related Coursework
+# Related Coursework
 
   I. Bachelors
 
@@ -28,9 +28,9 @@ Welcome to my GitHub portfolio! Here, you'll find my work focused on Machine Lea
     4. Data Analysis (Statistics & Machine Learning)
     5. DSA - Advanced
 
-## Project Links
+# Project Links
 
-# Self Projects
+## Self Projects
 
   1. [Agent Based Market Simulation: AHMAPPO + LLM](https://github.com/S-Varshaa-Sai-Sripriya/Agent-Based-Market-Simulation-AHMAPPO-with-LLM-Integration)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
   2. [PersonaGameAI: The Adaptive PlayStyle Engine](https://github.com/S-Varshaa-Sai-Sripriya/PersonaGameAI)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
@@ -40,7 +40,7 @@ Welcome to my GitHub portfolio! Here, you'll find my work focused on Machine Lea
   6. [MovieVerse: Movie Database System Relational Schema & SQL Engine](https://github.com/S-Varshaa-Sai-Sripriya/Movie-Database-System-Relational-Schema-SQL-Engine)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" />
   7. [Income Prediction Using Statistical Learning](https://github.com/S-Varshaa-Sai-Sripriya/Income-Prediction-Using-Statistical-Learning)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="20" />
 
-# Learning & Development 
+## Learning & Development 
 
   1. [End to End Machine Learning Project with Deployment: Student Performance Predictor (Use Case)](https://github.com/S-Varshaa-Sai-Sripriya/End-to-End-Machine-Learning-Project-with-Deployment-Student-Performance-Predictor)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
   2. [End to End MLOps Project with MLflow, Docker, and CI/CD](https://github.com/S-Varshaa-Sai-Sripriya/End-to-End-MLOps-Project-with-MLflow-Docker-and-CI-CD)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
@@ -51,13 +51,13 @@ Welcome to my GitHub portfolio! Here, you'll find my work focused on Machine Lea
 
 Other [UG Projects Documentation](https://github.com/S-Varshaa-Sai-Sripriya/BTech-Projects-Portfolio-Documentation)
 
-## Publications:
+# Publications:
 
   1. [Water Potability Prediction](https://www.researchgate.net/publication/373908648_Machine_Learning_Methods_for_Balanced_and_Imbalanced_Datasets_to_Predict_Consumable_Water)
   2. [Multi-Class Pneumonia Detection](https://ieeexplore.ieee.org/document/9936750)
   3. [Loan Eligibility Prediction](https://ieeexplore.ieee.org/document/9951727)
 
-## 📫 Let's connect: 
+# 📫 Let's connect: 
 
 - [Linkedin](https://www.linkedin.com/in/varshaasaisheshadhri/)
 - [Mail via form](https://forms.gle/4he63uTbjhTcTU5t5)
