@@ -12,6 +12,10 @@ Welcome to my GitHub portfolio! Here, you'll find my work focused on Machine Lea
 
 # Related Coursework
 
+  --------------------------------
+  | Bachelors | Masters|
+  --------------------------------
+
   I. Bachelors
 
     1. Machine Learning
