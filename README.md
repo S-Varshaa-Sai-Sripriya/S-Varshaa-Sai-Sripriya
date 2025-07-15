@@ -12,25 +12,13 @@ Welcome to my GitHub portfolio! Here, you'll find my work focused on Machine Lea
 
 # Related Coursework
 
-  --------------------------------
-  | Bachelors | Masters|
-  --------------------------------
-
-  I. Bachelors
-
-    1. Machine Learning
-    2. Deep Learning
-    3. Pattern Recognition
-    4. Bio Inspired Algorithms
-    5. DSA - Basic
-
- II. Masters
-
-    1. Reinforcement Learning
-    2. DBMS
-    3. Big Data Analysis
-    4. Data Analysis (Statistics & Machine Learning)
-    5. DSA - Advanced
+| Bachelor's Courses                       | Master's Courses                                      |
+|-----------------------------------------|--------------------------------------------------------|
+| Machine Learning                        | Reinforcement Learning                               |
+| Deep Learning                           | Database Management Systems (DBMS)                   |
+| Pattern Recognition                     | Big Data                                              |
+| Bio Inspired Algorithms                 | Data Analysis (Statistics & ML)                      |
+| Data Structures & Algorithms – Basic    | Data Structures & Algorithms – Advanced              |
 
 # Project Links
 
