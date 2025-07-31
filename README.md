@@ -8,9 +8,7 @@
 
 </div> 
 
-Welcome to my GitHub portfolio! Here, you'll find my work focused on Machine Learning, Data Science, and AI solutions. 
-
-[Portfolio](https://svarshaasaisripriya-portfolio.netlify.app/) 
+Welcome to my GitHub portfolio! Here, you'll find my work focused on Machine Learning, Data Science, and AI solutions. Professional Portfolio Website: [Portfolio](https://svarshaasaisripriya-portfolio.netlify.app/) 
 
 # Related Coursework
 
