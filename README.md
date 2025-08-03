@@ -45,6 +45,10 @@ Professional Portfolio Websites: [Portfolio](https://svarshaasaisripriya-portfol
 
 Other [UG Projects Documentation](https://github.com/S-Varshaa-Sai-Sripriya/BTech-Projects-Portfolio-Documentation)
 
+## Machine Learning Algorithms Implementation From Scratch
+
+1. Linear Regression: [California House Price Prediction](https://github.com/S-Varshaa-Sai-Sripriya/California-House-Price-Prediction-Linear-Regression)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+
 # Publications:
 
   1. [Water Potability Prediction](https://www.researchgate.net/publication/373908648_Machine_Learning_Methods_for_Balanced_and_Imbalanced_Datasets_to_Predict_Consumable_Water)
