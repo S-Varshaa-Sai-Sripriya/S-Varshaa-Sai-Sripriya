@@ -53,6 +53,10 @@ I. Regression
 
 1. Linear Regression: [California House Price Prediction](https://github.com/S-Varshaa-Sai-Sripriya/California-House-Price-Prediction-Linear-Regression)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
 
+II. Classification
+
+1. Logistic Regression: [Sentiment Classification from Movie Reviews - Logistic Regression Classifier](https://github.com/S-Varshaa-Sai-Sripriya/Sentiment-Classification-from-Movie-Reviews---Logistic-Regression-Classifier)       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+
 # Publications:
 
   1. [Water Potability Prediction](https://www.researchgate.net/publication/373908648_Machine_Learning_Methods_for_Balanced_and_Imbalanced_Datasets_to_Predict_Consumable_Water)
