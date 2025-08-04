@@ -47,7 +47,9 @@ Other [UG Projects Documentation](https://github.com/S-Varshaa-Sai-Sripriya/BTec
 
 ## Machine Learning Algorithms Implementation From Scratch
 
-### Regression
+### Supervised Learning
+
+I. Regression
 
 1. Linear Regression: [California House Price Prediction](https://github.com/S-Varshaa-Sai-Sripriya/California-House-Price-Prediction-Linear-Regression)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
 
