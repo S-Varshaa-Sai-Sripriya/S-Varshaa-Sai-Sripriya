@@ -55,7 +55,7 @@ I. Regression
 
 II. Classification
 
-1. Logistic Regression: [Sentiment Classification from Movie Reviews - Logistic Regression Classifier](https://github.com/S-Varshaa-Sai-Sripriya/Sentiment-Classification-from-Movie-Reviews---Logistic-Regression-Classifier)       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+1. Logistic Regression: [Sentiment Classification from Movie Reviews](https://github.com/S-Varshaa-Sai-Sripriya/Sentiment-Classification-from-Movie-Reviews---Logistic-Regression-Classifier)       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
 
 # Publications:
 
