@@ -52,6 +52,7 @@ Other [UG Projects Documentation](https://github.com/S-Varshaa-Sai-Sripriya/BTec
 I. Regression
 
 1. Linear Regression: [California House Price Prediction](https://github.com/S-Varshaa-Sai-Sripriya/California-House-Price-Prediction-Linear-Regression)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+2. Polynomial Regression: [Car Price Prediction](https://github.com/S-Varshaa-Sai-Sripriya/Car-Price-Prediction---Polynomial-Regression)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
 
 II. Classification
 
