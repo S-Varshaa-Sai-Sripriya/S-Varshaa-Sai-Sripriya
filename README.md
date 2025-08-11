@@ -65,6 +65,10 @@ I. Clustering
 
 1. K-Means Clustering: [Customer Segmentation](https://github.com/S-Varshaa-Sai-Sripriya/Customer-Segmentation---K-Means)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
 
+### Deep Learning Algorithms
+
+1. Feedforward Neural Network: [Digit Classification](https://github.com/S-Varshaa-Sai-Sripriya/Digit-Classification-with-Feedforward-Neural-Network-MNIST)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+
 # Publications:
 
   1. [Water Potability Prediction](https://www.researchgate.net/publication/373908648_Machine_Learning_Methods_for_Balanced_and_Imbalanced_Datasets_to_Predict_Consumable_Water)
