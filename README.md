@@ -43,7 +43,11 @@ Professional Portfolio Websites: [Portfolio](https://svarshaasaisripriya-portfol
   5. [RAGAI_ChatBot1: Local RAG-Based AI Agent with Ollama, LangChain, and Chroma](https://github.com/S-Varshaa-Sai-Sripriya/RAGAI_ChatBot1)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
   6. [NYC Crime Classification Using Machine Learning](https://github.com/S-Varshaa-Sai-Sripriya/NYC-Crime-Classification-Using-Machine-Learning)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="20" />
 
-Other [UG Projects Documentation](https://github.com/S-Varshaa-Sai-Sripriya/BTech-Projects-Portfolio-Documentation)
+
+### Documentations:
+
+1.  [UG Projects Documentation](https://github.com/S-Varshaa-Sai-Sripriya/BTech-Projects-Portfolio-Documentation)
+2.  [Architecting a Scalable Fault Tolerant YARN HDFS Cluster Using Hadoop](https://s-varshaa-sai-sripriya.github.io/Architecting-a-Scalable-Fault-Tolerant-YARN-HDFS-Cluster-Using-Hadoop/) 
 
 ## Machine Learning Algorithms Implementation From Scratch
 
