@@ -58,6 +58,7 @@ I. Regression
 1. Linear Regression: [California House Price Prediction](https://github.com/S-Varshaa-Sai-Sripriya/California-House-Price-Prediction-Linear-Regression)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
 2. Polynomial Regression: [Car Price Prediction](https://github.com/S-Varshaa-Sai-Sripriya/Car-Price-Prediction---Polynomial-Regression)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
 3. Decision Tree Regressor: [Bike Sharing Demand Prediction](https://github.com/S-Varshaa-Sai-Sripriya/Bike-Sharing-Demand-Prediction-using-Decision-Tree-Regressor-from-scratch)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+4. Random Forest Regressor: [Energy Efficiency Prediction](https://github.com/S-Varshaa-Sai-Sripriya/From-Scratch-Random-Forest-Regressor-Predicting-Building-Energy-Efficiency)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
 
 II. Classification
 
