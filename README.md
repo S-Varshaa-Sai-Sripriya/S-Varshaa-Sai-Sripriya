@@ -72,6 +72,7 @@ II. Classification
 I. Clustering
 
 1. K-Means Clustering: [Customer Segmentation](https://github.com/S-Varshaa-Sai-Sripriya/Customer-Segmentation---K-Means)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+2. Hierarchical Clustering (Agglomerative, Divisive): [Customer Segmentation Online Retail Dataset](https://github.com/S-Varshaa-Sai-Sripriya/Customer-Segmentation-using-Hierarchical-Clustering-From-Scratch-on-the-Online-Retail-Dataset)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
 
 ### Deep Learning Algorithms
 
