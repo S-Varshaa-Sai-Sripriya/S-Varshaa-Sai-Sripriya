@@ -54,7 +54,7 @@ Professional Portfolio Websites: [Portfolio](https://svarshaasaisripriya-portfol
   13. Random Forest Classifier (Scratch): [Bank Marketing](https://github.com/S-Varshaa-Sai-Sripriya/Random-Forest-Classifier-for-Bank-Marketing-Dataset)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
   14. K-Means Clustering (Scratch): [Customer Segmentation](https://github.com/S-Varshaa-Sai-Sripriya/Customer-Segmentation---K-Means)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
   15. Hierarchical Clustering (Agglomerative, Divisive)(Scratch): [Customer Segmentation Online Retail Dataset](https://github.com/S-Varshaa-Sai-Sripriya/Customer-Segmentation-using-Hierarchical-Clustering-From-Scratch-on-the-Online-Retail-Dataset)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
-  Feedforward Neural Network (Scratch): [Digit Classification](https://github.com/S-Varshaa-Sai-Sripriya/Digit-Classification-with-Feedforward-Neural-Network-MNIST)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+  16. Feedforward Neural Network (Scratch): [Digit Classification](https://github.com/S-Varshaa-Sai-Sripriya/Digit-Classification-with-Feedforward-Neural-Network-MNIST)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
 
 
 ### Documentations:
