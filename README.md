@@ -33,6 +33,7 @@ Professional Portfolio Websites: [Portfolio](https://svarshaasaisripriya-portfol
   5. [FraudShield-ML: Credit Fraud Detection](https://github.com/S-Varshaa-Sai-Sripriya/FraudShield-ML-Credit-Fraud-Detection)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
   6. [MovieVerse: Movie Database System Relational Schema & SQL Engine](https://github.com/S-Varshaa-Sai-Sripriya/Movie-Database-System-Relational-Schema-SQL-Engine)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" />
   7. [Income Prediction Using Statistical Learning](https://github.com/S-Varshaa-Sai-Sripriya/Income-Prediction-Using-Statistical-Learning)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="20" />
+  8. [ScaleMap: MapReduce Prototype in HPC for Big Data (SLURM + Python)](https://github.com/S-Varshaa-Sai-Sripriya/ScaleMap-MapReduce-Prototype-SLURM-Python-HPC-Big-Data) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="20" /> <img width="1200" height="1099" alt="Image" src="https://github.com/user-attachments/assets/588da707-4783-46e6-b60b-9ff758098fe8" />
 
 ## Learning & Development 
 
