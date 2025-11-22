@@ -18,7 +18,7 @@ Professional Portfolio Websites: [Portfolio](https://svarshaasaisripriya-portfol
 |-----------------------------------------|--------------------------------------------------------|
 | Machine Learning                        | Reinforcement Learning                               |
 | Deep Learning                           | Database Management Systems (DBMS)                   |
-| Pattern Recognition                     | Big Data (HPC, Kubernetes, Borg, Hadoop, YARN, PySpark, Web Graph)                                              |
+| Pattern Recognition                     | Big Data (HPC, Kubernetes, Borg, Google PageRank Hadoop, YARN, PySpark, Web Graph)                                              |
 | Bio Inspired Algorithms                 | Data Analysis (Statistics & ML)                      |
 | Data Structures & Algorithms – Basic    | Data Structures & Algorithms – Advanced              |
 
