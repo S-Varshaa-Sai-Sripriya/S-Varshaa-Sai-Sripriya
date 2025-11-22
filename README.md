@@ -35,6 +35,7 @@ Professional Portfolio Websites: [Portfolio](https://svarshaasaisripriya-portfol
   7. [Income Prediction Using Statistical Learning](https://github.com/S-Varshaa-Sai-Sripriya/Income-Prediction-Using-Statistical-Learning)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="20" />
   8. [ScaleMap: MapReduce Prototype in HPC for Big Data (SLURM + Python)](https://github.com/S-Varshaa-Sai-Sripriya/ScaleMap-MapReduce-Prototype-SLURM-Python-HPC-Big-Data)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />  <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/3b6d83e6-f5c9-4534-b601-a1686413f6c9"/>
   9. [Google PageRank Implementation using MPI4Py in HPC for Big Data](https://github.com/S-Varshaa-Sai-Sripriya/Google-PageRank-Implementation-using-MPI4Py-in-HPC-for-Big-Data)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />  <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/3b6d83e6-f5c9-4534-b601-a1686413f6c9"/>
+  10. [ADMM-Logistic: Scalable Logistic Regression for HPC (Big Data)](https://github.com/S-Varshaa-Sai-Sripriya/ADMM-Logistic-Scalable-Logistic-Regression-for-HPC)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />  <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/3b6d83e6-f5c9-4534-b601-a1686413f6c9"/>
 
 ## Learning & Development 
 
