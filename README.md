@@ -20,7 +20,7 @@ Professional Portfolio Websites: [Portfolio](https://svarshaasaisripriya-portfol
 | Deep Learning (MLPs, GAN, RNN, PyTorch, Tensorflow)                          | Database Management Systems (DBMS, MySQL)                   |
 | Pattern Recognition (Bayesian classification, kNN, SVM, Decision Trees, Graph-Based algorithms, CNN, Autoencoders)                    | Big Data (HPC, Kubernetes, Borg, Google PageRank, Hadoop, YARN, PySpark, Web Graph, ADMM)                                              |
 | Bio Inspired Algorithms (PSO, ACO, ABC)                | Data Analysis (Statistics & ML)                      |
-| Data Structures & Algorithms – Basic    | Data Structures & Algorithms – Advanced              |
+| Data Structures & Algorithms – Basic (C, Python)   | Data Structures & Algorithms – Advanced (Java, Python)             |
 
 # Project Links
 
