@@ -19,7 +19,7 @@ Professional Portfolio Websites: [Portfolio](https://svarshaasaisripriya-portfol
 | Machine Learning (Linear Regression, Logistic Regression, LSTM, RNN, GRU, ANN, XGBoost, Random Forest, Fuzzy)                        | Reinforcement Learning (Q-learning, SARSA, TD(Lambda), Monte Carlo, Policy Based, PPO)                              |
 | Deep Learning (MLPs, GAN, RNN, PyTorch, Tensorflow)                          | Database Management Systems (DBMS, MySQL)                   |
 | Pattern Recognition (Bayesian classification, kNN, SVM, Decision Trees, Graph-Based algorithms, CNN, Autoencoders)                    | Big Data (HPC, Kubernetes, Borg, Google PageRank, Hadoop, YARN, PySpark, Web Graph, ADMM)                                              |
-| Bio Inspired Algorithms (PSO, ACO, ABC)                | Data Analysis (Statistics & ML)                      |
+| Bio Inspired Algorithms (PSO, ACO, ABC)                | Data Analysis (Statistics & ML - R, Python)                      |
 | Data Structures & Algorithms – Basic (C, Python)   | Data Structures & Algorithms – Advanced (Java, Python)             |
 
 # Project Links
