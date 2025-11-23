@@ -37,6 +37,7 @@ Professional Portfolio Websites: [Portfolio](https://svarshaasaisripriya-portfol
   9. [Google PageRank Implementation using MPI4Py in HPC for Big Data](https://github.com/S-Varshaa-Sai-Sripriya/Google-PageRank-Implementation-using-MPI4Py-in-HPC-for-Big-Data)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />  <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/3b6d83e6-f5c9-4534-b601-a1686413f6c9"/>
   10. [ADMM-Logistic: Scalable Logistic Regression for HPC (Big Data)](https://github.com/S-Varshaa-Sai-Sripriya/ADMM-Logistic-Scalable-Logistic-Regression-for-HPC)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />  <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/3b6d83e6-f5c9-4534-b601-a1686413f6c9"/>
   11. [Agentic AI Orchestrator: Multi-Agent LLM System for Real-Time Travel Itinerary Planner](https://github.com/S-Varshaa-Sai-Sripriya/Agentic-AI-Orchestrator-Multi-Agent-LLM-System-for-Real-Time-Travel-Itinerary-Planner)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+  12. [Persona Extraction from JIRA Exports](https://github.com/S-Varshaa-Sai-Sripriya/Persona-Extraction-from-JIRA-Exports)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
 
 ## Learning & Development 
 
