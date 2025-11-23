@@ -16,7 +16,7 @@ Professional Portfolio Websites: [Portfolio](https://svarshaasaisripriya-portfol
 
 | Bachelor's Courses                       | Master's Courses                                      |
 |-----------------------------------------|--------------------------------------------------------|
-| Machine Learning (Linear Regression, Logistic Regression, LSTM, RNN, GRU, ANN etc.)                        | Reinforcement Learning (Q-learning, SARSA, TD(Lambda), Monte Carlo, Policy Based, PPO etc.                              |
+| Machine Learning (Linear Regression, Logistic Regression, LSTM, RNN, GRU, ANN, XGBoost, Random Forest etc.)                        | Reinforcement Learning (Q-learning, SARSA, TD(Lambda), Monte Carlo, Policy Based, PPO etc.)                              |
 | Deep Learning (MLPs, GAN, RNN, PyTorch, Tensorflow)                          | Database Management Systems (DBMS, MySQL)                   |
 | Pattern Recognition                     | Big Data (HPC, Kubernetes, Borg, Google PageRank, Hadoop, YARN, PySpark, Web Graph)                                              |
 | Bio Inspired Algorithms                 | Data Analysis (Statistics & ML)                      |
