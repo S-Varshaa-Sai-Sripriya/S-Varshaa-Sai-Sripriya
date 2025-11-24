@@ -58,6 +58,7 @@ Professional Portfolio Websites: [Portfolio](https://svarshaasaisripriya-portfol
   15. Hierarchical Clustering (Agglomerative, Divisive) (Scratch): [Customer Segmentation Online Retail Dataset](https://github.com/S-Varshaa-Sai-Sripriya/Customer-Segmentation-using-Hierarchical-Clustering-From-Scratch-on-the-Online-Retail-Dataset)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
   16. Feedforward Neural Network (Scratch): [Digit Classification](https://github.com/S-Varshaa-Sai-Sripriya/Digit-Classification-with-Feedforward-Neural-Network-MNIST)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
   17. [ChatBot-JAVA (Hardcoded)](https://github.com/S-Varshaa-Sai-Sripriya/ChatBot-JAVA-Hardcoded)      <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/567f4660-a051-4196-a4ab-16af8c7285c2" />
+  18. [Tic-Tac-Toe Game](https://github.com/S-Varshaa-Sai-Sripriya/TicTacToe_Game_JAVA)      <img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/567f4660-a051-4196-a4ab-16af8c7285c2" />
 
 
 ### Documentations:
