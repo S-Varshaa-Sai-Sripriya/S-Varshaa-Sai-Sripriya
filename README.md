@@ -4,7 +4,7 @@
   
 # 👋 Hello, I’m S Varshaa Sai Sripriya
 
-## 🎓 Gold Medalist | MS Data Science | B.Tech ECE | 🤖 Machine Learning, Data Science, AI, SDE, SWE & related domains 
+## 🎓 Gold Medalist | 🤖 Machine Learning, Data Science, AI, SDE, SWE & related domains 
 
 </div> 
 
