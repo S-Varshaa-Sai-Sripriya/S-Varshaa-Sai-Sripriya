@@ -4,11 +4,11 @@
   
 # 👋 Hello, I’m S Varshaa Sai Sripriya
 
-## 🎓 Gold Medalist | 🤖 Machine Learning, Data Science, AI & related domains 
+## 🎓 Gold Medalist | MS Data Science | B.Tech ECE | 🤖 Machine Learning, Data Science, AI, SDE, SWE & related domains 
 
 </div> 
 
-Welcome to my GitHub projects portfolio! Here, you'll find my work focused on Machine Learning, Data Science, and AI solutions. 
+Welcome to my GitHub projects portfolio! Here, you'll find my work focused majorly on Machine Learning, Data Science, and AI solutions. 
 
 Professional Portfolio Websites: [Portfolio](https://svarshaasaisripriya-portfolio.netlify.app/); [Linkedin](https://www.linkedin.com/in/varshaasaisheshadhri/); [Google Scholar](https://scholar.google.com/citations?hl=en&user=4T_DQV0AAAAJ)
 
