@@ -38,6 +38,7 @@ Professional Portfolio Websites: [Portfolio](https://svarshaasaisripriya-portfol
   12. [Persona Extraction from JIRA Exports](https://github.com/S-Varshaa-Sai-Sripriya/Persona-Extraction-from-JIRA-Exports)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
   13. [Large-Scale Distributed Time Series Forecasting for Retail Inventory Management Using Big Data (GCP, PySpark)](https://github.com/S-Varshaa-Sai-Sripriya/Large-Scale-Distributed-Time-Series-Forecasting-for-Retail-Inventory-Management-Using-Big-Data)      <img src="https://miro.medium.com/1*PeyTw85m3b3PQWLoN0UiiA.png" width="40" />  <img src="https://github.com/user-attachments/assets/d26d04b8-c21e-4358-9c24-d2c182ee2322" width="80" />
   14. [Agentic AI Orchestrator: Multi-Agent System for Real-Time Travel Itinerary Planner](https://github.com/1216-dev/TravelAI)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+  15. [Octane JIRA Mapping](https://github.com/S-Varshaa-Sai-Sripriya/Octane-JIRA-SIT-Testing-mapping)      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
 
 ## Learning & Development 
 
